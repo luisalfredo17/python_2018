@@ -50,4 +50,4 @@ usuario = criar_usuario(email, senha)
 logado = esta_logado(usuario, usuarios)
 
 print(logado)
-
+*professor o senhor pode colocar também o arquivo usuarios.csv* "valeu luis" 
